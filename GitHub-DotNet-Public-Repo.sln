@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "dotnet-app-for-webservice", "dotnet-app-for-webservice", "{567510C4-8DF2-4EC1-8F54-1D9DF1CC3089}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AzureDotNetMVCapp", "dotnet-app-for-webservice\AzureDotNetMVCapp\AzureDotNetMVCapp.csproj", "{19DBE864-1D9D-4229-A56A-CADC06A42825}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19DBE864-1D9D-4229-A56A-CADC06A42825}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19DBE864-1D9D-4229-A56A-CADC06A42825}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19DBE864-1D9D-4229-A56A-CADC06A42825}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19DBE864-1D9D-4229-A56A-CADC06A42825}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{19DBE864-1D9D-4229-A56A-CADC06A42825} = {567510C4-8DF2-4EC1-8F54-1D9DF1CC3089}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {17A08D9C-850B-4594-AA6B-5C3C8B270080}
+	EndGlobalSection
+EndGlobal
